@@ -43,6 +43,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemex-32&show_icons=true&theme=dark&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
+![Visitor Count](https://profile-counter.glitch.me/{Hemex-32}/count.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemex-32&layout=compact&theme=dark&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
 ---
