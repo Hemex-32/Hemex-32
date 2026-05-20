@@ -43,8 +43,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemex-32&show_icons=true&theme=dark&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemex-32&layout=compact&theme=dark&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
 ---
