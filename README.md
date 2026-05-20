@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hemal-parmar-466775284/)" /></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hemal-parmar-466775284/)"><img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]" /></a>
 
 
 ---
