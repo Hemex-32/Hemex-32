@@ -52,9 +52,15 @@ When I'm not training models, I'm:
 - **Advising**: Helping early-stage startups automate their internal intelligence.
 - **Exploring**: Diving into Rust for high-performance ML kernels.
 
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourprofile/yourprofile/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+
+
 
 <p align="center">
   <i>"Automating the present to engineer the future."</i>
