@@ -11,15 +11,13 @@
 
 ---
 
-### <p align="center">Thesis</p>
-
 <p align="center">
   I build autonomous systems that scale. As an <b>AI/ML Engineer</b> and <b>SaaS Founder</b>, <br />
   my focus is on reducing the time-to-value for complex intelligence through automation and refined UX.
 </p>
 
 <p align="center">
- <a href="www.linkedin.com/in/hemal-parmar-466775284"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="www.linkedin.com/in/hemal-parmar-466775284" target=""><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ---
