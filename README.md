@@ -19,9 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+  <a href="https://linkedin.com/in/yourprofile"><img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hemal-parmar-466775284/)" /></a>
+
 
 ---
 
@@ -41,15 +40,6 @@
 
 ---
 
-### 🚀 High-Impact Projects
-
-| Product | Intent | Technologies |
-| :--- | :--- | :--- |
-| **[NeuralFlow](https://github.com/yourprofile/neuralflow)** | Autonomous workflow engine for LLM-based agents. | Python, LangChain, FastAPI |
-| **[SaaS-Forge](https://github.com/yourprofile/saas-forge)** | Premium AI SaaS boilerplate with multi-tenancy & vector search. | Next.js, Stripe, Pinecone |
-| **[SynthBeats](https://github.com/yourprofile/synthbeats)** | Generative AI suite for rhythmic composition & DJ performance. | PyTorch, Magenta, WebAudio |
-
----
 
 ### 📈 Activity & Insights
 
