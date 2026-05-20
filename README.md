@@ -41,10 +41,9 @@
 
 ### 📈 Activity & Insights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=transparent&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemex-32&show_icons=true&theme=dark&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemex-32&layout=compact&theme=dark&title_color=FFFFFF&text_color=9F9F9F&icon_color=FFFFFF&bg_color=0D1117&hide_border=true)
 
 ---
 
