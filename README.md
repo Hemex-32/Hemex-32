@@ -60,19 +60,21 @@ my focus is on reducing the time-to-value for complex intelligence through autom
 
 ## 📈 Activity & Insights
 
-<p align="center">
+<table>
+<tr>
 
-<img
-height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemex-32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<td width="55%">
+<img width="100%"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemex-32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</td>
 
-<img
-height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemex-32&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<td width="45%">
+<img width="100%"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemex-32&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
