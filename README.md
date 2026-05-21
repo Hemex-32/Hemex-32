@@ -87,7 +87,7 @@ When I'm not training models:
 
 ---
 
-# 🐍 Contribution Graph
+
 
 <p align="center">
   <img
